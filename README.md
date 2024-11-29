@@ -3,8 +3,8 @@
 <span>Title: Web Dev2 Assignment</span><img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="70px" style="vertical-align: middle;">
 </h2>
 
-Date: November 2024 <br>
-Author: Susanna Perkins <br>
+__Date:__ November 2024 <br>
+__Author:__ Susanna Perkins <br>
 
 ### Interact with my website!
 I have uploaded a version of this code to a free hosting service so that you can access my website! <br>
