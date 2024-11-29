@@ -1,5 +1,5 @@
 <h2>
-<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-right: 10px;">Title: Web Dev2 Assignment<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
+<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-right: 20px;">Title: Web Dev2 Assignment<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
 </h2>
 
 Date: November 2024 <br>
