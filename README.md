@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;"> Title: Web Dev2 Assignment <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
+<img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-right: 10px;"> <h1>Title: Web Dev2 Assignment</h2><img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="100px" style="vertical-align: middle; margin-left: 10px;">
 
 Date: November 2024 <br>
 Author: Susanna Perkins <br>
