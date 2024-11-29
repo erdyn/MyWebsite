@@ -7,7 +7,7 @@
 Date: November 2024 <br>
 Author: Susanna Perkins <br>
 
-## Interact with my website!
+### Interact with my website!
 I have uploaded a version of this code to a free hosting service so that you can access my website! <br>
 Link: <a href= "http://erdyn.000.pe">Here</a>
 
