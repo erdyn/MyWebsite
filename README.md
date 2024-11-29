@@ -25,45 +25,45 @@ This website is for a library, it connects to a db with tables: users, books, re
 </details> <br>
 This website demonstrates my ability to implement sessions and interact with a database, including performing operations on its tables.
 
-## Pictures of Website
+## Pictures of Website:
 <details>
-  <summary>Image 1 Description</summary>
-  <img src="image1.jpg" alt="Image 1">
+  <summary>Login</summary>
+  <img src="image4.jpg" alt="Login Page">
 </details>
 
 <details>
-  <summary>Image 2 Description</summary>
-  <img src="image2.jpg" alt="Image 2">
+  <summary>Register</summary>
+  <img src="image5.jpg" alt="Register Page">
 </details>
 
 <details>
-  <summary>Image 3 Description</summary>
-  <img src="image3.jpg" alt="Image 3">
+  <summary>Home Page</summary>
+  <img src="image1.jpg" alt="Home Page">
 </details>
 
 <details>
-  <summary>Image 4 Description</summary>
-  <img src="image4.jpg" alt="Image 4">
+  <summary>Home Page (scrolled down)</summary>
+  <img src="image2.jpg" alt="Home Page 2">
 </details>
 
 <details>
-  <summary>Image 5 Description</summary>
-  <img src="image5.jpg" alt="Image 5">
+  <summary>Page when not signed in</summary>
+  <img src="image3.jpg" alt="Page Not Signed In">
 </details>
 
 <details>
-  <summary>Image 6 Description</summary>
-  <img src="image6.jpg" alt="Image 6">
+  <summary>Reserve Book</summary>
+  <img src="image6.jpg" alt="Reserve Book">
 </details>
 
 <details>
-  <summary>Image 7 Description</summary>
-  <img src="image7.jpg" alt="Image 7">
+  <summary>Book reserved</summary>
+  <img src="image7.jpg" alt="Book reserved successfully">
 </details>
 
 <details>
-  <summary>Image 8 Description</summary>
-  <img src="image8.jpg" alt="Image 8">
+  <summary>View Reservations</summary>
+  <img src="image8.jpg" alt="View Reservations">
 </details>
 
 
