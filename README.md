@@ -5,6 +5,7 @@
 
 __Date:__ November 2024 <br>
 __Author:__ Susanna Perkins <br>
+__Note:__ Cannot upload the code until due date for this assignmetn is passed
 
 ### Interact with my website!
 I have uploaded a version of this code to a free hosting service so that you can access my website! <br>
