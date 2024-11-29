@@ -9,7 +9,7 @@ __Author:__ Susanna Perkins <br>
 ### Interact with my website!
 I have uploaded a version of this code to a free hosting service so that you can access my website! <br>
 Link: <a href= "http://erdyn.000.pe">Here</a>
-* __NOTE__ * : 
+__NOTE__: FGJSRTJ
 
 ## Description:
 This website is for a library, it connects to a db with tables: users, books, reservations, categories. <br>
