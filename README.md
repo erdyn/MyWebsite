@@ -7,18 +7,20 @@
 Date: November 2024 <br>
 Author: Susanna Perkins <br>
 
-## Interact With my website!
+## Interact with my website!
 I have uploaded a version of this code to a free hosting service so that you can access my website! <br>
 Link: <a href= "http://erdyn.000.pe">Here</a>
 
 ## Description:
-
+This website is for a library, it connects to a db with tables: users, books, reservations, categories. <br>
+<details>
+<summary>Requirements: </summary>
+- User cannot access the system if not logged in
+- User can reserve books
+- User can view their reservations
+- User can unreserve a book
+- User cannot reserve books that are already reserved
+</details> <br>
 This website demonstrates my ability to implement sessions and interact with a database, including performing operations on its tables.
 
-## fhugiaaerwi
-
-<details>
-<summary> - lalala: </summary>
-
-</details>
 
