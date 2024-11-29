@@ -1,3 +1,4 @@
+--Is this a comment
 <h2>
 <img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="70px" style="vertical-align: middle;">
 <span>Title: Web Dev2 Assignment</span><img src="https://raw.githubusercontent.com/erdyn/welcomeGif/refs/heads/main/pixel-cat.gif" width="70px" style="vertical-align: middle;">
@@ -29,42 +30,42 @@ This website demonstrates my ability to implement sessions and interact with a d
 ## Pictures of Website:
 <details>
   <summary>Login</summary>
-  <img src="image4.jpg" alt="Login Page">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/login.png" alt="Login Page">
 </details>
 
 <details>
   <summary>Register</summary>
-  <img src="image5.jpg" alt="Register Page">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/register.png" alt="Register Page">
 </details>
 
 <details>
   <summary>Home Page</summary>
-  <img src="image1.jpg" alt="Home Page">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/index1.png" alt="Home Page">
 </details>
 
 <details>
   <summary>Home Page (scrolled down)</summary>
-  <img src="image2.jpg" alt="Home Page 2">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/index2.png" alt="Home Page 2">
 </details>
 
 <details>
   <summary>Page when not signed in</summary>
-  <img src="image3.jpg" alt="Page Not Signed In">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/indexNotSignedIn.png" alt="Page Not Signed In">
 </details>
 
 <details>
   <summary>Reserve Book</summary>
-  <img src="image6.jpg" alt="Reserve Book">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/reserve.png" alt="Reserve Book">
 </details>
 
 <details>
   <summary>Book reserved</summary>
-  <img src="image7.jpg" alt="Book reserved successfully">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/reserved.png" alt="Book reserved successfully">
 </details>
 
 <details>
   <summary>View Reservations</summary>
-  <img src="image8.jpg" alt="View Reservations">
+  <img src="https://raw.githubusercontent.com/erdyn/MyWebsite/refs/heads/main/pictures/viewReservations.png" alt="View Reservations">
 </details>
 
 
