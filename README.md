@@ -27,7 +27,8 @@ This website is for a library, it connects to a db with tables: users, books, re
 <li>User cannot reserve books that are already reserved</li>
 </ul>
 </details> <br>
-This website demonstrates my ability to implement sessions and interact with a database, including performing operations on its tables.
+This website demonstrates my ability to implement sessions and interact with a database, including performing operations on its tables. <br>
+I cannot wait to do bigger, better projects like this one 🐱
 
 <!-- Pics of Website, 8 images in drop down -->
 ## Pictures of Website:
