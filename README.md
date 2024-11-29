@@ -15,11 +15,13 @@ Link: <a href= "http://erdyn.000.pe">Here</a>
 This website is for a library, it connects to a db with tables: users, books, reservations, categories. <br>
 <details>
 <summary>Requirements: </summary>
-- User cannot access the system if not logged in
-- User can reserve books
-- User can view their reservations
-- User can unreserve a book
-- User cannot reserve books that are already reserved
+<ul>
+<li>User cannot access the system if not logged in</li>
+<li>User can reserve books</li>
+<li>User can view their reservations</li>
+<li>User can unreserve a book</li>
+<li>User cannot reserve books that are already reserved</li>
+</ul>
 </details> <br>
 This website demonstrates my ability to implement sessions and interact with a database, including performing operations on its tables.
 
