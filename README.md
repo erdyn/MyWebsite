@@ -6,7 +6,7 @@
 
 __Date:__ November 2024 <br>
 __Author:__ Susanna Perkins <br>
-__Note:__ Cannot upload the code until due date for this assignmetn is passed
+__Note:__ Cannot upload the code until due date for this assignment is passed
 
 <!-- Website link and info-->
 ### Interact with my website!
