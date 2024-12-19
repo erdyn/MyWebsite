@@ -8,12 +8,12 @@ __Date:__ November 2024 <br>
 __Author:__ Susanna Perkins <br>
 __Note:__ Cannot upload the code until due date for this assignment has passed
 
-<!-- Website link and info-->
+<!-- Website link and info
 ### Interact with my website!
 I have uploaded a version of my website's code to a free hosting service so that you can access my website! <br>
 Link: <a href= "http://erdyn.000.pe">Here</a> <br>
 __NOTE__: The resources provided to this website are very limited, ie db storage, pages temporarily unavailable etc.
-
+-->
 <!-- Description -->
 ## Description:
 This website is for a library, it connects to a db with tables: users, books, reservations, categories. <br>
