@@ -1,3 +1,4 @@
+-- Users table
 CREATE TABLE IF NOT EXISTS Users
 (
     Username VARCHAR(30) PRIMARY KEY,
@@ -11,12 +12,14 @@ CREATE TABLE IF NOT EXISTS Users
     Mobile VARCHAR(15)
 );
 
+-- Categories
 CREATE TABLE IF NOT EXISTS Categories
 (
     CategoryID VARCHAR(3) PRIMARY KEY,
     CategoryDescription VARCHAR(30)
 );
 
+-- Books
 CREATE TABLE IF NOT EXISTS Books
 (
     ISBN VARCHAR(30) PRIMARY KEY,
@@ -32,6 +35,7 @@ CREATE TABLE IF NOT EXISTS Books
     REFERENCES Categories(CategoryID)
 );
 
+-- Reservations
 CREATE TABLE IF NOT EXISTS Reservations
 (
     ISBN VARCHAR(30),
@@ -46,6 +50,8 @@ CREATE TABLE IF NOT EXISTS Reservations
     FOREIGN KEY (ISBN)
     REFERENCES Books(ISBN)
 );
+
+-- Populating tables as required
 
 INSERT INTO Users (Username, Passkey, FirstName, Surname, AddressLine1, AddressLine2, City, Telephone, Mobile) VALUES
 ('alanjmckenna', 't1234s', 'Alan', 'McKenna', '38 Cranley Road', 'Fairview', 'Dublin', '9998377', '856625567'),
