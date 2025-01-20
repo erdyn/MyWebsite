@@ -17,6 +17,7 @@ __NOTE__: The resources provided to this website are very limited, ie db storage
 <!-- Description -->
 ## Description:
 This website is for a library, it connects to a db with tables: users, books, reservations, categories. <br>
+(see AS folder) <br>
 <details>
 <summary>Requirements: </summary>
 <ul>
